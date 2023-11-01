@@ -1,15 +1,11 @@
 # Laravel 9 & React js - Ecommerce application
 
-## Screenshots
-
-![preview img](/preview.png)
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/ecommerce-youtube.git project-name
+  git clone https://github.com/krishanpareek809/ogani-fruits-and-vegetables-ecommerce-php-laravel.git
 ```
 
 Go to the project directory
@@ -36,7 +32,7 @@ Go to the project directory
     php artisan storage:link
 ```
 
-#### Login
+#### Login for admin/owner
 
 -   email = admin@example.com
 -   password = 123
